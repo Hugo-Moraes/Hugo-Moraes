@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hugo-Moraes
+- 👋 Hi, I’m Hugo Moraes
 - 🔭 I'm currently working with video editing and web development
 - 👀 I’m interested in self-improvement
 - 🌱 I’m currently learning new programming languages, like: Java, JS and C
