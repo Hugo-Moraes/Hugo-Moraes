@@ -5,8 +5,7 @@
 - 🤝 I’m looking to collaborate on projects that can add experience
 
 - 📫 How to reach me:
-- E-mail: hugoeduardo572@gmail.com
-- Linked-in: https://www.linkedin.com/in/hugo-moraes-0b5b3818a/
+- E-mail: 
 
 <div align="center">
   <a href="https://github.com/Hugo-Moraes">
